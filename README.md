@@ -132,6 +132,10 @@ Some builds from npm included bugs while `npm install`. So if you are using a np
 - Open iosApp.xcodeproj and hit run in Xcode.
 - Hit cmd+R in your iOS simulator to reload the app and see your change!
 
+NOTE: seems to be
+
+- open ios/ReactNativeNWReactCalculator.xcodeproj
+
 #### Android
 
 - Open an emulator. (Genymotion or run `android avd`)
